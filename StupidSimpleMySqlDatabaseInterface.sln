@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidSimpleMySqlDatabaseInterface", "StupidSimpleMySqlDatabaseInterface.csproj", "{1909DC3B-7946-435A-916B-9F8F8DB668E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1909DC3B-7946-435A-916B-9F8F8DB668E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1909DC3B-7946-435A-916B-9F8F8DB668E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1909DC3B-7946-435A-916B-9F8F8DB668E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1909DC3B-7946-435A-916B-9F8F8DB668E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
